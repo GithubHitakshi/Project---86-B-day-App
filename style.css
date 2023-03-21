@@ -1,0 +1,28 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: blueviolet;
+   
+}
+#BEST
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: initial;
+    font-variant: small-caps;
+    color: #f10505;
+
+
+
+
+}
+
+
